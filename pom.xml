@@ -25,20 +25,20 @@
     </scm>
     <developers>
         <developer>
-            <name>Arun Gupta</name>
-            <email>arun.gupta@gmail.com</email>
+            <name>Vivek R</name>
+            <email>r.vivek89@gmail.com</email>
         </developer>
     </developers>
     <distributionManagement>
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://localhost:8081/nexus/content/repositories/releases/</url>
+            <url>http://ttgssdv0vrhap10.ttgtpmg.net:8081/nexus/content/repositories/releases/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://localhost:8081/nexus/content/repositories/snapshots/</url>
+            <url>http://ttgssdv0vrhap10.ttgtpmg.net:8081/nexus/content/repositories/snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
     <build>
